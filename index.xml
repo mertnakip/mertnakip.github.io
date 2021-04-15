@@ -9,6 +9,19 @@
     <lastBuildDate>Thu, 15 Apr 2021 14:43:34 +0200</lastBuildDate><atom:link href="https://mertnakip.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
+      <link>https://mertnakip.github.io/publications/</link>
+      <pubDate>Thu, 15 Apr 2021 15:54:59 +0200</pubDate>
+      
+      <guid>https://mertnakip.github.io/publications/</guid>
+      <description>2021
+Coming soon..
+2020 V. Rodoplu, M. Nakip, R. Qorbanian, and D.T. Eliiyi, &amp;ldquo;Multi-Channel Joint Forecasting-Scheduling for the Internet of Things,&amp;rdquo; IEEE Access 8, 217324-217354, 2020
+M. Nakıp, O. Çopur, and C. Güzeliş, &amp;ldquo;Curse of Small Sample Size in Forecasting of the Active Cases in COVID-19 Outbreak,&amp;rdquo; arXiv preprint arXiv:2011.03628, 2020
+B. Pehlivan, C. Kahraman, D. Kurtel, M. Nakіp, and C. Güzeliş, &amp;ldquo;Real-Time Implementation of Mini Autonomous Car Based on MobileNet-Single Shot Detector,&amp;rdquo; 2020 Innovations in Intelligent Systems and Applications Conference (ASYU), 1-6, 2020</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
       <link>https://mertnakip.github.io/posts/publications/</link>
       <pubDate>Thu, 15 Apr 2021 14:43:34 +0200</pubDate>
       
