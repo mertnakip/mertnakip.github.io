@@ -9,15 +9,20 @@
     <lastBuildDate>Thu, 15 Apr 2021 14:43:34 +0200</lastBuildDate><atom:link href="https://mertnakip.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
+      <link>https://mertnakip.github.io/publications/</link>
+      <pubDate>Thu, 15 Apr 2021 15:54:59 +0200</pubDate>
+      
+      <guid>https://mertnakip.github.io/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
       <link>https://mertnakip.github.io/posts/publications/</link>
       <pubDate>Thu, 15 Apr 2021 14:43:34 +0200</pubDate>
       
       <guid>https://mertnakip.github.io/posts/publications/</guid>
-      <description>You can also achieve my publications on
-2021:
-2020
-2019
-M. Nakıp and C. Güzeliş, &amp;ldquo;Development of a Multi-Sensor Fire Detector Based On Machine Learning Models,&amp;rdquo; 2019 Innovations in Intelligent Systems and Applications Conference (ASYU), 1-6</description>
+      <description></description>
     </item>
     
     <item>
@@ -35,15 +40,6 @@ M. Nakıp and C. Güzeliş, &amp;ldquo;Development of a Multi-Sensor Fire Detect
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://mertnakip.github.io/travels/london/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My Startup</title>
-      <link>https://mertnakip.github.io/projects/startup/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://mertnakip.github.io/projects/startup/</guid>
       <description></description>
     </item>
     
