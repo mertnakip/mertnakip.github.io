@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on MERT NAKIP</title>
+    <link>https://mertnakip.github.io/posts/</link>
+    <description>Recent content in Posts on MERT NAKIP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Apr 2021 14:43:34 +0200</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Apr 2021 14:43:34 +0200</lastBuildDate><atom:link href="https://mertnakip.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <title>Publications</title>
+      <link>https://mertnakip.github.io/posts/publications/</link>
       <pubDate>Thu, 15 Apr 2021 14:43:34 +0200</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://mertnakip.github.io/posts/publications/</guid>
+      <description>You can also achieve my publications on
+2021:
+2020
+2019
+M. Nakıp and C. Güzeliş, &amp;ldquo;Development of a Multi-Sensor Fire Detector Based On Machine Learning Models,&amp;rdquo; 2019 Innovations in Intelligent Systems and Applications Conference (ASYU), 1-6</description>
     </item>
     
   </channel>

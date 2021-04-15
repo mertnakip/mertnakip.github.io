@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://mertnakip.github.io/</loc>
     <lastmod>2021-04-15T14:43:34+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://mertnakip.github.io/posts/</loc>
     <lastmod>2021-04-15T14:43:34+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://mertnakip.github.io/posts/publications/</loc>
     <lastmod>2021-04-15T14:43:34+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/travels/amsterdam/</loc>
+    <loc>https://mertnakip.github.io/travels/amsterdam/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/books/</loc>
+    <loc>https://mertnakip.github.io/books/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/books/entrepreneurship/</loc>
+    <loc>https://mertnakip.github.io/books/entrepreneurship/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/travels/london/</loc>
+    <loc>https://mertnakip.github.io/travels/london/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/projects/startup/</loc>
+    <loc>https://mertnakip.github.io/projects/startup/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/projects/</loc>
+    <loc>https://mertnakip.github.io/projects/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/travels/</loc>
+    <loc>https://mertnakip.github.io/travels/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://mertnakip.github.io/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://mertnakip.github.io/tags/</loc>
   </url>
 </urlset>

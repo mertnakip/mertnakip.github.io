@@ -1,54 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>MERT NAKIP</title>
+    <link>https://mertnakip.github.io/</link>
+    <description>Recent content on MERT NAKIP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Apr 2021 14:43:34 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Apr 2021 14:43:34 +0200</lastBuildDate><atom:link href="https://mertnakip.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <title>Publications</title>
+      <link>https://mertnakip.github.io/posts/publications/</link>
       <pubDate>Thu, 15 Apr 2021 14:43:34 +0200</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://mertnakip.github.io/posts/publications/</guid>
+      <description>You can also achieve my publications on
+2021:
+2020
+2019
+M. Nakıp and C. Güzeliş, &amp;ldquo;Development of a Multi-Sensor Fire Detector Based On Machine Learning Models,&amp;rdquo; 2019 Innovations in Intelligent Systems and Applications Conference (ASYU), 1-6</description>
     </item>
     
     <item>
       <title>Amsterdam</title>
-      <link>http://example.org/travels/amsterdam/</link>
+      <link>https://mertnakip.github.io/travels/amsterdam/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/travels/amsterdam/</guid>
+      <guid>https://mertnakip.github.io/travels/amsterdam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entrepreneurship</title>
-      <link>http://example.org/books/entrepreneurship/</link>
+      <link>https://mertnakip.github.io/books/entrepreneurship/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/books/entrepreneurship/</guid>
+      <guid>https://mertnakip.github.io/books/entrepreneurship/</guid>
       <description></description>
     </item>
     
     <item>
       <title>London</title>
-      <link>http://example.org/travels/london/</link>
+      <link>https://mertnakip.github.io/travels/london/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/travels/london/</guid>
+      <guid>https://mertnakip.github.io/travels/london/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My Startup</title>
-      <link>http://example.org/projects/startup/</link>
+      <link>https://mertnakip.github.io/projects/startup/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/startup/</guid>
+      <guid>https://mertnakip.github.io/projects/startup/</guid>
       <description></description>
     </item>
     

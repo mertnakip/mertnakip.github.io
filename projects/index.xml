@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on My New Hugo Site</title>
-    <link>http://example.org/projects/</link>
-    <description>Recent content in Projects on My New Hugo Site</description>
+    <title>Projects on MERT NAKIP</title>
+    <link>https://mertnakip.github.io/projects/</link>
+    <description>Recent content in Projects on MERT NAKIP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://mertnakip.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Startup</title>
-      <link>http://example.org/projects/startup/</link>
+      <link>https://mertnakip.github.io/projects/startup/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/startup/</guid>
+      <guid>https://mertnakip.github.io/projects/startup/</guid>
       <description></description>
     </item>
     

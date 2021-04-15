@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Travels on My New Hugo Site</title>
-    <link>http://example.org/travels/</link>
-    <description>Recent content in Travels on My New Hugo Site</description>
+    <title>Travels on MERT NAKIP</title>
+    <link>https://mertnakip.github.io/travels/</link>
+    <description>Recent content in Travels on MERT NAKIP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/travels/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://mertnakip.github.io/travels/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amsterdam</title>
-      <link>http://example.org/travels/amsterdam/</link>
+      <link>https://mertnakip.github.io/travels/amsterdam/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/travels/amsterdam/</guid>
+      <guid>https://mertnakip.github.io/travels/amsterdam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>London</title>
-      <link>http://example.org/travels/london/</link>
+      <link>https://mertnakip.github.io/travels/london/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/travels/london/</guid>
+      <guid>https://mertnakip.github.io/travels/london/</guid>
       <description></description>
     </item>
     
