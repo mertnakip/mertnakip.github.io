@@ -5,8 +5,7 @@
     <link>https://mertnakip.github.io/</link>
     <description>Recent content on MERT NAKIP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 15 Apr 2021 14:43:34 +0200</lastBuildDate><atom:link href="https://mertnakip.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://mertnakip.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
       <link>https://mertnakip.github.io/publications/</link>
@@ -18,15 +17,6 @@
 2020 V. Rodoplu, M. Nakip, R. Qorbanian, and D.T. Eliiyi, “Multi-Channel Joint Forecasting-Scheduling for the Internet of Things,” IEEE Access 8, 217324-217354, 2020
 M. Nakıp, O. Çopur, and C. Güzeliş, “Curse of Small Sample Size in Forecasting of the Active Cases in COVID-19 Outbreak,” arXiv preprint arXiv:2011.03628, 2020
 B. Pehlivan, C. Kahraman, D. Kurtel, M. Nakіp, and C.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://mertnakip.github.io/posts/publications/</link>
-      <pubDate>Thu, 15 Apr 2021 14:43:34 +0200</pubDate>
-      
-      <guid>https://mertnakip.github.io/posts/publications/</guid>
-      <description></description>
     </item>
     
   </channel>
